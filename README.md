@@ -1,4 +1,4 @@
-![Machine Learning Engineer](https://github.com/sam-finestone/sam-finestone/blob/main/UCL_image_cover.png)
+![Machine Learning Engineer](https://github.com/sam-finestone/sam-finestone/blob/main/UCL_cover_img.png)
 
 # Sam Finestone
 
