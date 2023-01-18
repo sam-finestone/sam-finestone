@@ -1,4 +1,4 @@
-![Machine Learning Engineer](https://media.licdn.com/dms/image/D5616AQH2PpX_zcKiTA/profile-displaybackgroundimage-shrink_350_1400/0/1672761677238?e=1679529600&v=beta&t=nguiFgki4SONM1k_X5Uu_vjxnQ2k208ztALiZo3izTw)
+![Machine Learning Engineer](https://github.com/sam-finestone/sam-finestone/blob/main/surya-prasad-aMIDCQQUXZI-unsplash%20(1).jpg)
 
 # Sam Finestone
 I am a Machine Learning Engineer 
