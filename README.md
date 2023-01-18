@@ -1,4 +1,4 @@
-![Machine Learning Engineer](https://github.com/sam-finestone/sam-finestone/blob/main/surya-prasad-aMIDCQQUXZI-unsplash%20(1).jpg)
+![Machine Learning Engineer](https://github.com/sam-finestone/sam-finestone/blob/main/surya-prasad-aMIDCQQUXZI-unsplash%20(1).png)
 
 # Sam Finestone
 I am a Machine Learning Engineer 
