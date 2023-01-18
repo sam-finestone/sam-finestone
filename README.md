@@ -5,6 +5,9 @@ As a recent M.Sc. graduate in Machine Learning with a focus on Multi-Task Learni
 
 Skills: Python | Deep learning | Multi-task learning | Pytorch
 
+- 🔭 I’m currently working on a generative AI model for art/ai collaborative project   
+- 🌱 I’m currently learning Generative AI models  
+
 <!--
 **sam-finestone/sam-finestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
