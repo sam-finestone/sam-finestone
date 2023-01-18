@@ -1,4 +1,5 @@
-### Hi there 👋
+#### I am a Machine Learning Engineer 
+![I am a Machine Learning Engineer ](https://media.licdn.com/dms/image/D5616AQH2PpX_zcKiTA/profile-displaybackgroundimage-shrink_350_1400/0/1672761677238?e=1679529600&v=beta&t=nguiFgki4SONM1k_X5Uu_vjxnQ2k208ztALiZo3izTw)
 
 <!--
 **sam-finestone/sam-finestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
