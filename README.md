@@ -2,7 +2,7 @@
 
 # Sam Finestone
 
-My name is Sam and I am a machine learning engineer. 
+I am a machine learning engineer specializing in multi-task learning.
 
 As a recent M.Sc. graduate in Machine Learning with a focus on Multi-Task Learning and a B.Sc. holder in a Joint Major in Statistics and Computer Science, I have developed a strong foundation in machine learning and computer science, as well as a passion multi-task learning. 
 
